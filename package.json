@@ -56,7 +56,6 @@
     "lint": "eslint src",
     "test": "jest"
   },
-  "author": "@mrtim247 <mrtawans@gmail.com>",
   "license": "ISC",
   "jest": {
     "unmockedModulePathPatterns": [
